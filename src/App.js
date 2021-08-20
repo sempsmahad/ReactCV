@@ -66,15 +66,15 @@ class App extends Component {
             <div className="profile-container">
                 <img className="profile" src={resume.image} alt="" />
                 <h1 className="name">{resume.name}</h1>
-                <h3 className="tagline">Full Stack Developer</h3>
+                <h3 className="tagline">Software Developer</h3>
             </div>
             
             <div className="contact-container container-block">
                 <ul className="list-unstyled contact-list">
                     <li className="email"><i className="fa fa-envelope"></i><a href="mailto: yourname@email.com">{resume.email}</a></li>
                     <li className="phone"><i className="fa fa-phone"></i><a href="tel:0123 456 789">{resume.phone}</a></li>
-                    <li className="website"><i className="fa fa-globe"></i><a href={resume.website} target="_blank">{resume.website}</a></li>
-                    <li className="twitter"><i className="fa fa-twitter"></i><a href={resume.twitterURL} target="_blank">{resume.twitter}</a></li>
+                    <li className="linkedin"><i className="fa fa-linkedin"></i><a href={resume.linkedin} target="_blank">{resume.linkedin}</a></li>
+                    <li className="github"><i className="fa fa-github"></i><a href={resume.github} target="_blank">{resume.github}</a></li>
                 </ul>
             </div>
             <div className="education-container container-block">
