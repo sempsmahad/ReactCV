@@ -7,67 +7,50 @@
 	"github":"github.com/sempsmahad",
 	"experiences" : [
 		{
-			"title" : "Lead Developer",
-			"period": "2015 - Present",
-			"company": "Startup Hubs, San Francisco",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"title" : "ERP Application Consultant",
+			"period": "2020 - 2021",
+			"company": "HRP Solutions LTD, Ntinda Kampala",
+			"companyURL": "https://hrpsolutions.com/",
+			"details": "Implement solutions for clients and attend to their needs.\n customize microsoft dynamics NAV finance software for clients.\n Advising and teaching clients how to use dynamics NAV.\n Brain storming and discussing challenges with team, knowledge sharing about approaches in software development.\n Polishing, refactoring, testing present modules in the code base.\n upgrading client databases between versions of microsoft NAV and business central"
 		},
 		{
-			"title" : "Senior Software Engineer",
-			"period": "2014 - 2015",
-			"company": "Google, London",
-			"companyURL": "http://programmingbuddy.club",
-			"details": "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo."
+			"title" : "Software Engineer",
+			"period": "2020 - 2020",
+			"company": "Crystal Clear Software LTD, Kampala RD",
+			"companyURL": "https://www.loanperformer.com/",
+			"details": "Listened to client requirements and customized \"Loan Performer\" desktop app in that direction, Converted codebase from a FOXPRO programming language to C# equivalent. Converted and redesigned report layouts from FoxPro to Telerik which is more modern. Implemented XML-based web services to facilitate communication between different versions of the application.."
+		},
+		{
+			"title" : "Apprentice developer",
+			"period": "2019 - 2019",
+			"company": "Andela, Kigali Rwanda",
+			"companyURL": "https://rwanda.andela.com/",
+			"details": "Created a simple e-commerce site called automart in pure vanilla javascript ,express ,node, css, html no frameworks. Got early exposure to react js and software development trends like TDD."
 		}
 	],
 	"projects": [
 		{
-			"name":"Velocity",
+			"name":"Meme Explorer",
 			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"DevStudio",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Tempo",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Atom",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
-		},
-		{
-			"name":"Delta",
-			"url": "http://programmingbuddy.club",
-			"detail": "A responsive website template designed to help startups promote, market and sell their products."
+			"detail": "Text recognition Android app to search for photos/screenshots in storage basing on the words in the picture"
 		}
 	],
 	"skills": [
 		{
-			"name": "Python & Django",
-			"percent": "98%"
+			"name": "Microsoft C/AL and AL",
+			"percent": "80%"
 		},
 		{
 			"name": "Javascript & jQuery",
 			"percent": "90%"
 		},
 		{
-			"name": "Angular",
+			"name": "React",
 			"percent": "80%"
 		},
 		{
 			"name": "HTML5 & CSS",
 			"percent": "99%"
-		},
-		{
-			"name": "Ruby on Rails",
-			"percent": "70%"
 		},
 		{
 			"name": "Sketch & Photoshop",
@@ -76,34 +59,39 @@
 	],
 	"education": [
 		{
-			"degree": "MSc in Computer Science",
-			"university": "University of London",
-			"period": "2011 - 2012"
+			"degree": "BSc in Computer Science",
+			"university": "Makerere University",
+			"period": "2015 - 2019"
 		},
 		{
-			"degree": "BSc in Applied Mathematics",
-			"university": "Bristol University",
-			"period": "2007 - 2011"
+			"degree": "Uganda Advanced Certificated of Education",
+			"university": "Kawempe Muslim S.S.",
+			"period": "2012 - 2014"
+		},
+		{
+			"degree": "Uganda Certificated of Education",
+			"university": "Kibuli S.S.",
+			"period": "2009 - 2012"
 		}
 	],
 	"languages": [
 		{
 			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"Luganda",
 			"details": "Native"
 		},
 		{
-			"name":"French",
-			"details": "Professional"
-		},
-		{
-			"name":"Spanish",
-			"details": "Professional"
+			"name":"Arabic",
+			"details": "intermidiate"
 		}
 	],
 	"interests": [
-		"Climbing",
-		"Snowboarding",
-		"Cooking",
+		"Chess",
+		"Volunteering",
+		"Open Source Contribution",
 		"Coding"
 	]
 }

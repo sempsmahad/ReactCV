@@ -103,7 +103,10 @@ class App extends Component {
             <section className="section summary-section">
                 <h2 className="section-title"><i className="fa fa-user"></i>Career Profile</h2>
                 <div className="summary">
-                    <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can <a href="http://themes.3rdwavemedia.com/website-templates/orbit-free-resume-cv-template-for-developers/" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                    <p>I am a software engineer with more than 2 years of experience in developing software and client engagement.
+I have been appreciated by my peers mostly due to my ability to learn totally new things pretty fast and my former supervisors due to my adaption to different scenarios in addition to my speed as a programmer.
+
+I have worked for companies with more than 20 years in existence and have experience dealing with huge codebases, I have also contributed to open-source software.</p>
                 </div>
             </section>
             
@@ -117,7 +120,7 @@ class App extends Component {
             <section className="section projects-section">
                 <h2 className="section-title"><i className="fa fa-archive"></i>Projects</h2>
                 <div className="intro">
-                    <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
+                   
                 </div>
 
                 {this.renderProjects()}
